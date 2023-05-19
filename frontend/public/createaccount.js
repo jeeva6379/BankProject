@@ -19,7 +19,7 @@ function CreateMsg(props){
     <h5>Your Account has been created Successfully</h5>
     <button type="submit" 
       className="btn btn-light" 
-      onClick={() => props.setShow(true)}>Add another account Jeevanantham</button>
+      onClick={() => props.setShow(true)}>Add another Cloud and Devops </button>
   </>);
 }
 
